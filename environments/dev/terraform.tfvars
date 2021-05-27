@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="gitops-test-315015"
